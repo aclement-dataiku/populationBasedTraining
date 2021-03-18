@@ -1,0 +1,15 @@
+{
+  "boosting_type": "dart",
+  "colsample_bytree": 0.5001964561420951,
+  "learning_rate": 0.01,
+  "metric": "binary_error",
+  "min_child_samples": 172,
+  "min_child_weight": 0.1,
+  "num_leaves": 14,
+  "objective": "binary",
+  "reg_alpha": 1,
+  "reg_lambda": 0,
+  "scale_pos_weight": 1,
+  "subsample": 0.5313935129494067,
+  "verbose": -1
+}

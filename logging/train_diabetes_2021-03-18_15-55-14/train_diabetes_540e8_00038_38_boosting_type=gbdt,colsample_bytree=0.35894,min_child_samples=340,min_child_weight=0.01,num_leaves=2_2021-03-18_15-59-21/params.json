@@ -1,0 +1,15 @@
+{
+  "boosting_type": "gbdt",
+  "colsample_bytree": 0.35894409589893916,
+  "learning_rate": 0.01,
+  "metric": "binary_error",
+  "min_child_samples": 340,
+  "min_child_weight": 0.01,
+  "num_leaves": 21,
+  "objective": "binary",
+  "reg_alpha": 2,
+  "reg_lambda": 0,
+  "scale_pos_weight": 1,
+  "subsample": 0.5084180508018789,
+  "verbose": -1
+}
