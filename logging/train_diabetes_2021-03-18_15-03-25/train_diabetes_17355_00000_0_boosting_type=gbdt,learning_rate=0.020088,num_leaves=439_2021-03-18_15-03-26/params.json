@@ -1,0 +1,8 @@
+{
+  "boosting_type": "gbdt",
+  "learning_rate": 0.02008761060218367,
+  "metric": "mean_accuracy",
+  "num_leaves": 439,
+  "objective": "binary",
+  "verbose": -1
+}

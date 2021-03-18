@@ -1,0 +1,8 @@
+{
+  "boosting_type": "dart",
+  "learning_rate": 0.07388993746485475,
+  "metric": "mean_accuracy",
+  "num_leaves": 220,
+  "objective": "binary",
+  "verbose": -1
+}
